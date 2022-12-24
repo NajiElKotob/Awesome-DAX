@@ -56,3 +56,4 @@
 
 ## Books
 * [The Definitive Guide to DAX](https://amzn.to/2E7kaE5) - BI with Microsoft Excel, SQL Server Analysis Services, and Power BI
+* [Extreme DAX: Take your Power BI and Microsoft data analytics skills to the next level](https://www.amazon.com/dp/B09NW319HB)
