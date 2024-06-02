@@ -44,6 +44,12 @@
 * [UNICHAR](https://docs.microsoft.com/en-us/dax/unichar-function-dax) - Returns the Unicode character referenced by the numeric value.
 
 -----
+## Functions
+### RANKX
+* [An Ultimate Guide to RANKX Power BI](https://blog.coupler.io/power-bi-rankx/)
+
+
+-----
 
 ## Vidoes :tv:
 * [DAX Studio Release 2.11.1 (Tutorial)](https://www.youtube.com/watch?v=944Bc6QkKk4) (July 2020)
