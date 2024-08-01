@@ -1,4 +1,4 @@
-# Awesome DAX (Initial DRAFT)
+# Awesome DAX
 `Data Analysis Expressions (DAX)`
 
 {Awesome Works in Progress}
@@ -48,6 +48,11 @@
 ### RANKX
 * [An Ultimate Guide to RANKX Power BI](https://blog.coupler.io/power-bi-rankx/)
 
+
+-----
+
+## Row context
+* [Row context in DAX explained visually 📺](https://www.youtube.com/watch?v=sEEzx5rO33s) - SQLBI
 
 -----
 
