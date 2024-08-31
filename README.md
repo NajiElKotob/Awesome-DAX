@@ -18,7 +18,9 @@
 * [DAX Filter Context in 1 Hour](https://www.youtube.com/watch?v=hZd9EgUR7Do) - Marco Russo (March 2021)
 * [CALCULATE in DAX - pills](https://www.youtube.com/watch?v=Tk-7gBt9CDE&list=PLU6II7MW-aiIees6mrPfdjt9c8noi7P66)
 * [From SQL to DAX](https://www.sqlbi.com/?s=%22from%20sql%20to%20dax%22&type=post)
-* [Row Context and Filter Context in DAX](https://www.sqlbi.com/articles/row-context-and-filter-context-in-dax) - Understanding the difference between row context and filter context is important in using DAX correctly.
+* Context
+  - [Row Context and Filter Context in DAX](https://www.sqlbi.com/articles/row-context-and-filter-context-in-dax) - Understanding the difference between row context and filter context is important in using DAX correctly.
+  - [Filter context in DAX explained visually](https://www.youtube.com/watch?v=L5WR-imfyYI)
 ### Matt Allington
 * [Evaluation Contexts in DAX - Level 200 (Video)](https://www.youtube.com/watch?v=1yWLhxYoq88)
 * [DAX 50 (Video)](https://exceleratorbi.com.au/my-mdis-presentations) - Matt Allington
