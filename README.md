@@ -21,6 +21,7 @@
 * Context
   - [Row Context and Filter Context in DAX](https://www.sqlbi.com/articles/row-context-and-filter-context-in-dax) - Understanding the difference between row context and filter context is important in using DAX correctly.
   - [Filter context in DAX explained visually](https://www.youtube.com/watch?v=L5WR-imfyYI)
+  - [Row context in DAX explained visually](https://www.youtube.com/watch?v=sEEzx5rO33s)
 ### Matt Allington
 * [Evaluation Contexts in DAX - Level 200 (Video)](https://www.youtube.com/watch?v=1yWLhxYoq88)
 * [DAX 50 (Video)](https://exceleratorbi.com.au/my-mdis-presentations) - Matt Allington
