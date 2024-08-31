@@ -20,8 +20,8 @@
 * [From SQL to DAX](https://www.sqlbi.com/?s=%22from%20sql%20to%20dax%22&type=post)
 * Context
   - [Row Context and Filter Context in DAX](https://www.sqlbi.com/articles/row-context-and-filter-context-in-dax) - Understanding the difference between row context and filter context is important in using DAX correctly.
-  - [Filter context in DAX explained visually](https://www.youtube.com/watch?v=L5WR-imfyYI)
-  - [Row context in DAX explained visually](https://www.youtube.com/watch?v=sEEzx5rO33s)
+  - [Filter context in DAX explained visually 📺 ~24min](https://www.youtube.com/watch?v=L5WR-imfyYI)
+  - [Row context in DAX explained visually 📺 ~22min](https://www.youtube.com/watch?v=sEEzx5rO33s)
 ### Matt Allington
 * [Evaluation Contexts in DAX - Level 200 (Video)](https://www.youtube.com/watch?v=1yWLhxYoq88)
 * [DAX 50 (Video)](https://exceleratorbi.com.au/my-mdis-presentations) - Matt Allington
