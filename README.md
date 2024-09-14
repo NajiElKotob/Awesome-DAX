@@ -63,6 +63,10 @@
 
 -----
 
+## Articles
+* SQLBI
+  - [Naming variables in DAX](https://www.sqlbi.com/blog/marco/2019/01/15/naming-variables-in-dax/)
+
 ## Vidoes :tv:
 * [DAX Studio Release 2.11.1 (Tutorial)](https://www.youtube.com/watch?v=944Bc6QkKk4) (July 2020)
 * [Understanding relationships in DAX](https://www.sqlbi.com/tv/understanding-relationships-in-power-bi) - Alberto Ferrari
