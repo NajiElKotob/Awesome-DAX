@@ -8,6 +8,10 @@
 * [Introduction to DAX](https://docs.microsoft.com/en-us/power-bi/guided-learning/introductiontodax)
 * [DAX basics in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-quickstart-learn-dax-basics)
 * [Data Analysis Expressions (DAX) Reference](https://docs.microsoft.com/en-us/dax/data-analysis-expressions-dax-reference)
+
+### DAX query view
+* [Work with DAX query view](https://learn.microsoft.com/en-us/power-bi/transform-model/dax-query-view)
+  
 ### SQLBI 
 * [DAX Guide](https://dax.guide/) - Marco Russo and Alberto Ferrari
 * [DAX.do](https://dax.do/) 🔨 - Write your DAX queries, try them and share them easily with DAX.do
