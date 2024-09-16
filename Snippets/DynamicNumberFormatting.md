@@ -19,3 +19,7 @@ RETURN
 ### Articles
 * [Introducing dynamic format strings for DAX measures](https://www.sqlbi.com/articles/introducing-dynamic-format-strings-for-dax-measures/) - sqlbi.com
 
+### DAX
+* [SWITCH](https://dax.guide/switch/) - Returns different results depending on the value of an expression.
+* [RETURN](https://dax.guide/st/return/) - The RETURN keyword consumes variables defined in previous VAR statements.
+* [SELECTEDMEASURE](https://dax.guide/selectedmeasure/) - Returns the measure that is currently being evaluated.
