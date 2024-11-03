@@ -55,12 +55,15 @@
 ### RANKX
 * [An Ultimate Guide to RANKX Power BI](https://blog.coupler.io/power-bi-rankx/)
 
-
 -----
 
 ## Row context
 * [Row context in DAX explained visually 📺](https://www.youtube.com/watch?v=sEEzx5rO33s) - SQLBI
 
+-----
+
+## Labs
+* [Create Advanced DAX Calculations in Power BI Desktop](https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/05-create-dax-calculations-in-power-bi-desktop-advanced.html)
 -----
 
 ## Articles
