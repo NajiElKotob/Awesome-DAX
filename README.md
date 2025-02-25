@@ -71,7 +71,9 @@
   - [Naming variables in DAX](https://www.sqlbi.com/blog/marco/2019/01/15/naming-variables-in-dax/)
   - [Rolling 12 Months Average in DAX](https://www.sqlbi.com/articles/rolling-12-months-average-in-dax/)
   - [Understanding blank row and limited relationships](https://www.sqlbi.com/articles/understanding-blank-row-and-limited-relationships/)
-
+* Microsoft
+  - [Create calculation groups](https://learn.microsoft.com/en-us/power-bi/transform-model/calculation-groups)
+    
 ## Vidoes :tv:
 * [DAX Studio Release 2.11.1 (Tutorial)](https://www.youtube.com/watch?v=944Bc6QkKk4) (July 2020)
 * [Understanding relationships in DAX](https://www.sqlbi.com/tv/understanding-relationships-in-power-bi) - Alberto Ferrari
