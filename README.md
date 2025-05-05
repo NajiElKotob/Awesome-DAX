@@ -51,16 +51,12 @@
 * [UNICHAR](https://docs.microsoft.com/en-us/dax/unichar-function-dax) - Returns the Unicode character referenced by the numeric value.
 
 -----
+
 ## Functions
 ### RANKX
 * [An Ultimate Guide to RANKX Power BI](https://blog.coupler.io/power-bi-rankx/)
-
-## Row context
-* [Row context in DAX explained visually 📺](https://www.youtube.com/watch?v=sEEzx5rO33s) - SQLBI
-
-## INFO
+### INFO
 * [INFO Functions Overview](https://learn.microsoft.com/en-us/dax/info-functions-dax)
-
 
 -----
 
