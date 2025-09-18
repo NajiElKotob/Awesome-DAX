@@ -22,6 +22,7 @@
 * [DAX Filter Context in 1 Hour](https://www.youtube.com/watch?v=hZd9EgUR7Do) - Marco Russo (March 2021)
 * [CALCULATE in DAX - pills](https://www.youtube.com/watch?v=Tk-7gBt9CDE&list=PLU6II7MW-aiIees6mrPfdjt9c8noi7P66)
 * [From SQL to DAX](https://www.sqlbi.com/?s=%22from%20sql%20to%20dax%22&type=post)
+* [Understanding relationships in DAX](https://www.sqlbi.com/tv/understanding-relationships-in-power-bi) - Alberto Ferrari
 * Context
   - [Row Context and Filter Context in DAX](https://www.sqlbi.com/articles/row-context-and-filter-context-in-dax) - Understanding the difference between row context and filter context is important in using DAX correctly.
   - [Filter context in DAX explained visually 📺 ~24min](https://www.youtube.com/watch?v=L5WR-imfyYI)
@@ -46,6 +47,8 @@
 ### Advanced Topics
 * [Bidirectional relationships and ambiguity in DAX](https://www.sqlbi.com/articles/bidirectional-relationships-and-ambiguity-in-dax/) - Activating bidirectional cross-filter in a Tabular data model might create ambiguous paths in the chain of relationships, resulting in very dangerous models as numbers become unpredictable. 
 * [Hiding future dates for calculations in DAX](https://www.sqlbi.com/articles/hiding-future-dates-for-calculations-in-dax/) - This article describes how to write DAX measures that compute aggregations or comparisons with past dates without showing or comparing future dates.
+### Power BI Tips
+* [DAX Studio Release 2.11.1 (Tutorial)](https://www.youtube.com/watch?v=944Bc6QkKk4) (July 2020)
 ### Unicode
 * [Unicode Characters](https://www.compart.com/en/unicode/) 
 * [UNICHAR](https://docs.microsoft.com/en-us/dax/unichar-function-dax) - Returns the Unicode character referenced by the numeric value.
@@ -74,10 +77,6 @@
   - [Understanding blank row and limited relationships](https://www.sqlbi.com/articles/understanding-blank-row-and-limited-relationships/)
 * Microsoft
   - [Create calculation groups](https://learn.microsoft.com/en-us/power-bi/transform-model/calculation-groups)
-    
-## Vidoes :tv:
-* [DAX Studio Release 2.11.1 (Tutorial)](https://www.youtube.com/watch?v=944Bc6QkKk4) (July 2020)
-* [Understanding relationships in DAX](https://www.sqlbi.com/tv/understanding-relationships-in-power-bi) - Alberto Ferrari
 
 ## Tools
 * [DAX Formatter](https://www.sqlbi.com/tools/dax-formatter) - DAX Formatter is a free tool by SQLBI that transform raw DAX formulas into clean, beautiful and readable code.
