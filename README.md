@@ -51,6 +51,9 @@
 * [UNICHAR](https://docs.microsoft.com/en-us/dax/unichar-function-dax) - Returns the Unicode character referenced by the numeric value.
 
 -----
+## Features
+### UDF
+* [Introducing user-defined functions (UDFs) in DAX 📺 ~23min](https://www.youtube.com/watch?v=60jUmTxpxbw) - SQLBI
 
 ## Functions
 ### RANKX
