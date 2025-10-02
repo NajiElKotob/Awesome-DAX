@@ -64,6 +64,8 @@
 ### INFO
 * [INFO Functions Overview](https://learn.microsoft.com/en-us/dax/info-functions-dax)
 
+## Time Intelligence
+* [Calendar-based time intelligence: time intelligence, tailored](https://powerbi.microsoft.com/en-us/blog/calendar-based-time-intelligence-time-intelligence-tailored-preview/) 
 -----
 
 ## Labs
