@@ -57,6 +57,7 @@
 ## Features
 ### UDF
 * [Introducing user-defined functions (UDFs) in DAX 📺 ~23min](https://www.youtube.com/watch?v=60jUmTxpxbw) - SQLBI
+* [Introducing user-defined functions in DAX](https://www.sqlbi.com/articles/introducing-user-defined-functions-in-dax/) sqlbi.com
 
 ## Functions
 ### RANKX
