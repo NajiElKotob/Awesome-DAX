@@ -15,6 +15,7 @@
 ### SQLBI 
 * [DAX Guide](https://dax.guide/) - Marco Russo and Alberto Ferrari
 * [DAX.do](https://dax.do/) 🔨 - Write your DAX queries, try them and share them easily with DAX.do
+* [DAX Lib](https://daxlib.org/) - daxlib.org | Extend Power BI with DAX Lib
 * [Introducing DAX Course](https://www.sqlbi.com/p/introducing-dax-video-course/) :star:
 * [DAX 101 :tv: ~2 hours](https://www.youtube.com/watch?v=klQAZLr5vxA) - Alberto Ferrari
 * [Advanced DAX :tv: ~2 hours](https://www.youtube.com/watch?v=6ncHnWMEdic) - Alberto Ferrari
